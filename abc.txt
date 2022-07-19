@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chaneges in by nikunj in master
+=======
+changes in without master
+>>>>>>> nikunj
